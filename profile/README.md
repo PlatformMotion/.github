@@ -4,8 +4,6 @@
 
 Animated diagrams that show what happens inside Kubernetes, service meshes, GitOps, Linux and the cloud. We explain the moving parts, not the install steps.
 
-Every video is built from code: the animations, the thumbnails and the website all live in Git.
-
 <p>
   <a href="https://platformmotion.dev"><img src="./assets/website.png" alt="Website" title="platformmotion.dev" width="40" height="40"></a>&nbsp;
   <a href="https://www.youtube.com/@platformmotion"><img src="./assets/youtube.png" alt="YouTube" title="YouTube" width="40" height="40"></a>&nbsp;
